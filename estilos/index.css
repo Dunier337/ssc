@@ -1,0 +1,29 @@
+/*
+SELECTORES
+        UNIVERSAL*
+        ETIQUETA
+        CLASE
+        ID
+ */
+ #parrafo{
+ 	color:black;
+ }
+ #link{
+ 	color:gold;
+ }
+ .estilo{
+ 	color:violet;
+ 	text-transform: uppercase;
+ 	text-decoration: underline;
+ 	text-shadow: 1px 1px 3px black;
+ }
+
+        *{
+        	color:red;
+        }  
+ .estilo2{
+ 	color:red;
+    text-transform: capitalize;
+ 	text-decoration: overline;
+ 	text-shadow: 1px 1px 3px green;
+ }       
